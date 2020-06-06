@@ -2,7 +2,7 @@
 name: Calum
 surname: Webb
 position: "Sociologist and Research Associate"
-address: "Department of Sociological Studies, the University of Sheffield"
+address: "Department of Sociological Studies, the University of Sheffield" 
 phone: +44 114 222 6462
 www: calumwebb.uk
 github: cjrwebb
