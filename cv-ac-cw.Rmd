@@ -45,11 +45,13 @@ knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
 
 # Summary
 
-Dr Calum Webb is a sociologist with specialisation in data science, quantitative research, and statistical methods. He has worked on research projects ranging from national £500,000+ multi-institution studies, to small projects that deliver rapid findings and impact. His research topics include child welfare, poverty, and social policy, particularly the funding of children's services. His work has been cited by the Department for Education, Ofsted, and the National Audit Office, and is published in many top-ranking journals. He is interested in coproduced and participatory approaches to quantitative research. 
+Dr Calum Webb is a sociologist with specialisation in data science, quantitative research, and statistical methods. He has worked on research projects ranging from national £500,000+ multi-institution studies, to small projects that deliver rapid findings and impact. His research topics include child welfare, poverty, and social policy, particularly the funding of children's services. His work has been cited by the Department for Education, Ofsted, and the National Audit Office, and is published in many top-ranking journals. He has presented at international conferences, including the European Conference for Social Work Research. He is interested in coproduced and participatory approaches to quantitative research. 
 
-Calum is a co-founder of the AI in Housing, Welfare, and Social Care Network. He is an `R` user and has created `Rshiny` data visualisation apps for social work professionals that have been used by every local authority in England, as well as practice guidance for social workers in partnership with the British Association for Social Workers. He maintains a blog for posting various `R` data visualisations, and comments on social policy and research.
+Calum is a co-founder of the AI in Housing, Welfare, and Social Care Network. He is an `R` user and has created `Rshiny` data visualisation apps for social work professionals that have been used by every local authority in England, as well as practice guidance for social workers in partnership with the British Association for Social Workers and Research in Practice. 
 
-He has taught quantitative methods and statistical analysis to undergraduates and postgraduates studying sociology, occupational psychology, social policy, and social research. He is a proficient user of `R`, `Mplus`, `SPSS`, and `Stata`, as well as `markdown` languages; he specialises in structural equation, multilevel, and latent growth modelling with secondary survey and administrative data. 
+He has taught quantitative methods and statistical analysis to undergraduates and postgraduates studying sociology, occupational psychology, social policy, and social research, including core modules on accredited programmes. He is a proficient user of `R`, `Mplus`, `SPSS`, and `Stata`; he specialises in structural equation, multilevel, and latent growth modelling with secondary survey and administrative data. 
+
+He is an external member of the *Cafcass* Research Advisory Committee and has been an advisor to the Department for Education's Children’s Social Care Analysis & Research Unit. He has acted as a consultant for directors of children's services at multiple local authorities, as well as in research institutions.  
 
 
 # Education
@@ -127,7 +129,6 @@ empl
 
 ```
 
-\pagebreak
 # Publications
 
 ```{r pubs_scrape, echo=FALSE, message=FALSE, include=FALSE}
