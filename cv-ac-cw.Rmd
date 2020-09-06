@@ -51,7 +51,7 @@ Calum is a co-founder of the AI in Housing, Welfare, and Social Care Network. He
 
 He has taught quantitative methods and statistical analysis to undergraduates and postgraduates studying sociology, occupational psychology, social policy, and social research, including core modules on accredited programmes. He is a proficient user of `R`, `Mplus`, `SPSS`, and `Stata`; he specialises in structural equation, multilevel, and latent growth modelling with secondary survey and administrative data. 
 
-He is an external member of the *Cafcass* Research Advisory Committee and has been an advisor to the Department for Education's Children’s Social Care Analysis & Research Unit. He has acted as a consultant for directors of children's services at multiple local authorities, as well as in research institutions.  
+He is an external member of the *Cafcass* Research Advisory Committee and has been a technical advisor to the Department for Education's Children’s Social Care Analysis & Research Unit. He has acted as a consultant for directors of children's services at multiple local authorities, as well as in research institutions.  
 
 
 # Education
